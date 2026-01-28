@@ -61,8 +61,6 @@ The platform enables:
 - Secure user access  
 - Marketplace growth across multiple vehicle sectors  
 
-The system was designed with **speed, usability, and scalability** as core priorities.
-
 ---
 
 ## 🧰 Technical Stack
@@ -87,6 +85,6 @@ The final platform delivers:
 
 ---
 
-👤 **Author** 
-Developed by **Anjali Khare**
-Developed for portfolio and demonstration purposes.
+👤 **Author**  
+Developed by **Anjali Khare**  
+For portfolio and demonstration purposes.
